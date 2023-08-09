@@ -1,12 +1,10 @@
-# Meeting Summary: Working Discussions
+# Meeting Summary: Working Discussion with Silk Aini Bashir
 
-## Silk Aini Bashir - Franchise Team
-
-**Date:** [Date]
-**Time:** [Time]
+**Date:** [Date]  
+**Time:** [Time]  
 **Attendees:** Silk Aini Bashir (Team Lead), April, Suzanne
 
-### Agenda:
+## Agenda:
 
 1. Project Status Update
 2. Attendance and Timeliness
@@ -14,98 +12,242 @@
 4. Tomorrow's Goals
 5. Aini's Current Task
 
-### Meeting Notes:
+## Meeting Notes:
 
-1. Silk Aini Bashir updated on the franchise website progress.
-2. Aini arrived promptly; April was late.
-3. Suzanne reviewed project status.
-4. Suzanne plans a backlog meeting.
-5. Aini addressing issue #103.
+1. **Project Status Update:**  
+   Silk Aini Bashir provided an overview of the ongoing work on the franchise website. She highlighted the key developments and progress made by the team.
 
-## Shumaila Tahir - Prime Team
+2. **Attendance and Timeliness:**  
+   Silk Aini Bashir arrived promptly at 5:00 PM for the meeting. It's noted that April was late today.
 
-**Date:** [Date]
+3. **Suzanne's Project Review:**  
+   Suzanne reviewed the current status of the project. She presented an overview of the work completed and emphasized important aspects.
 
-### Work Schedule:
+4. **Tomorrow's Goals:**  
+   Suzanne expressed her intention to conduct a backlog meeting tomorrow. This aligns with her goal of ensuring effective project management.
 
-- Split schedule: 4 hrs morning, 4 hrs evening.
+5. **Aini's Current Task:**  
+   Aini Bashir shared that she is currently working on addressing issue #103. The team discussed the details and progress made toward resolving the issue.
 
-### Morning Shift:
+## Action Items:
 
-- Atlassian Tools usage.
-- Migrating Xpress lab issues.
+- Silk Aini Bashir to continue overseeing the franchise website project and ensure its smooth progression.
+- April to be reminded of the importance of punctuality for future meetings.
+- Suzanne to initiate the backlog meeting as planned.
+- Aini to provide updates on the resolution of issue #103 and collaborate with the team to address it effectively.
 
-### Team Update:
+## Next Meeting:
 
-- Zara on leave.
-- Natasha facing laptop issues.
+The team will reconvene for the next status update meeting to discuss further progress and address any arising matters.
 
-### Evening Shift:
+## Meeting Adjournment:
 
-- Continuation of project management tasks.
-
-## Aleem - Phenix Team
-
-**Date:** [Date]
-
-### Project Update:
-
-- Focusing on customer journey and user journey.
-
-### Team Member Absences:
-
-- Zara (internet issue).
-- Natasha (laptop issue).
-- Wajeeha (clocking issue).
-
-### Tomorrow's Plan:
-
-- Continue project management.
-- Address team member challenges.
-
-## Raza - Thunder Team
+The meeting concluded at [End Time].
+# Work Update: Shumaila Tahir - Prime Team
 
 **Date:** [Date]
 
-### Work Update:
+## Work Schedule:
 
-- Focused on Focus Pass methodology.
+Shumaila Tahir follows a split schedule, working 4 hours in the morning and 4 hours in the evening.
 
-### Onboarding New Members:
+## Morning Shift (4 hours):
 
-- Integrating with three new team members.
+### Tasks:
+- Engaging with Atlassian Tools for project-related tasks and updates.
+- Migrating issues from Xpress lab to the project.
 
-### Learning and Certification:
+## Team Update:
 
-- Inam working on Jira certification.
+### Team Members:
+- Shumaila Tahir (Team Lead)
+- Zara (On Leave)
+- Natasha (Laptop Issues)
 
-### Tomorrow's Plan:
+### Notes:
+- Zara is currently on leave.
+- Natasha is facing laptop issues, causing inconsistencies in her work.
 
-- Continue team integration.
-- Dashboard work and 6 Sigma certification.
-- Job applications and Jira certification monitoring.
+## Evening Shift (4 hours):
 
-## Humara Tahir - Nebula Team
+### Focus:
+Shumaila Tahir continues her engagement with project management and tasks requiring her expertise.
 
-**Date:** [Date]
+## Tomorrow's Plan:
 
-### Work Schedule:
+Shumaila Tahir plans to:
+- Resume her morning shift tasks, focusing on Atlassian Tools and issue migration.
+- Oversee ongoing project management tasks.
+- Monitor progress and address any ongoing challenges within the team.
 
-- 4 hrs morning, 4 hrs evening.
+**Next Update Meeting:**
+The team will reconvene for the next update meeting to review progress and discuss any new developments.
 
-### Morning Shift:
+**Update Completed:**  
+The update was completed at [End Time].
 
-- Atlassian Tools usage.
-- Issue migration from Xpress lab.
+---
 
-### Team Update:
+*Note: Replace [Date] and [End Time] with the actual date and time information.*
 
-- Zara on leave.
-- Natasha facing laptop issues.
+# Meeting Summary: Discussion with Humara - Nebula Team
 
-### Tomorrow's Plan:
+**Date:** [Date]  
+**Time:** [Time]  
+**Attendees:** Humara (Team Lead)
 
-- Resume morning tasks.
-- Project management.
-- Monitor team progress.
+## Agenda:
+
+1. Work Update and Schedule
+2. Morning Shift Tasks
+3. Team Member Update
+4. Tomorrow's Plan
+
+## Meeting Notes:
+
+1. **Work Update and Schedule:**
+   Humara follows a structured schedule, working 4 hours in the morning and 4 hours in the evening.
+
+2. **Morning Shift (4 hours):**
+
+   ### Tasks:
+   - Utilizing Atlassian Tools for project-related activities.
+   - Facilitating the migration of issues from Xpress lab to the project, fulfilling the role of project management.
+
+3. **Team Member Update:**
+
+   ### Team Members:
+   - Humara (Team Lead)
+   - Zara (On Leave)
+   - Natasha (Laptop Issues)
+
+   ### Notes:
+   - Zara is currently on leave, resulting in her absence from the team.
+   - Natasha is facing laptop issues, leading to inconsistencies in her work availability.
+
+4. **Tomorrow's Plan:**
+   Humara plan for the next day includes:
+   - Continuing the morning shift duties, with a focus on Atlassian Tools usage and overseeing the issue migration process.
+   - Executing project management responsibilities effectively.
+   - Monitoring the team's progress and addressing any emerging challenges.
+
+## Action Items:
+
+- Humara to ensure smooth execution of morning shift tasks and project management responsibilities.
+- Team to accommodate Zara's leave and support Natasha with her laptop issues.
+- Humara to monitor the team's progress and address any challenges promptly.
+
+**Next Update Meeting:**
+The team will convene for the next update meeting to review progress and discuss any new developments.
+
+**Meeting Adjournment:**  
+The meeting concluded at [End Time].
+
+---
+
+*Note: Replace [Date], [Time], and [End Time] with the actual date and time information.*
+
+# Meeting Summary: Discussion with Aleem - Phenix Team
+
+**Date:** [Date]  
+**Time:** [Time]  
+**Attendees:** Aleem (Team Lead)
+
+## Agenda:
+
+1. Project and Work Update
+2. Team Member Absences
+3. Tomorrow's Plan
+
+## Meeting Notes:
+
+1. **Project and Work Update:**
+   Aleem, the Team Lead, is currently focused on managing customers' journey and user journey aspects of the project.
+
+2. **Team Member Absences:**
+
+   ### Team Members:
+   - Zara (Internet Issue)
+   - Natasha (Laptop Issue)
+   - Wajeeha (Not Clock In)
+
+   ### Notes:
+   - Zara is facing internet connectivity issues, which impacts her availability.
+   - Natasha is encountering laptop issues, leading to her absence from the team.
+   - Wajeeha has not clocked in, resulting in her unavailability.
+
+3. **Tomorrow's Plan:**
+   Aleem's plan for the next day includes:
+   - Continuing to manage the customers' journey and user journey aspects of the project.
+   - Monitoring the team's situation and addressing any challenges that arise due to the team members' absences.
+
+## Action Items:
+
+- Aleem to maintain the project's progress and continue managing customers' and user journeys.
+- Zara to resolve internet issues and ensure she can participate in the team's activities.
+- Natasha to address laptop issues and work towards regular availability.
+- Wajeeha to ensure she clocks in and is present for team-related tasks.
+
+**Next Update Meeting:**
+The team will convene for the next update meeting to review progress and discuss any new developments.
+
+**Meeting Adjournment:**  
+The meeting concluded at [End Time].
+
+---
+
+*Note: Replace [Date] and [End Time] with the actual date and time information.*
+
+# Meeting Summary: Discussion with Raza - Thunder Team
+
+**Date:** [Date]  
+**Time:** [Time]  
+**Attendees:** Raza (Team Lead)
+
+## Agenda:
+
+1. Project and Work Update
+2. Onboarding of New Team Members
+3. Learning and Certification Efforts
+4. Tomorrow's Plan
+
+## Meeting Notes:
+
+1. **Project and Work Update:**
+   Raza, the Team Lead, continues to focus on using the Focus Pass methodology daily to enhance productivity.
+
+2. **Onboarding of New Team Members:**
+   Raza is actively engaged in familiarizing himself with the three new members in the team.
+
+3. **Learning and Certification Efforts:**
+
+   ### Team Members:
+   - Inam
+
+   ### Notes:
+   - Inam is currently working on Jira and pursuing a certification in that domain.
+
+4. **Tomorrow's Plan:**
+   Raza's plan for the next day includes:
+   - Continued efforts to get acquainted with the new team members and their roles.
+   - Advancing work on the Dashboard project and pursuing a 6 Sigma certification.
+   - Submitting job applications for various roles.
+   - Monitoring Inam's progress in working on Jira and pursuing the certification.
+
+## Action Items:
+
+- Raza to focus on integrating the new team members and guiding them effectively.
+- Inam to continue working on Jira and progressing towards certification.
+- Raza to manage work on the Dashboard project and prepare for the 6 Sigma certification.
+- Raza to actively apply for different roles based on his career aspirations.
+
+**Next Update Meeting:**
+The team will convene for the next update meeting to review progress and discuss any new developments.
+
+**Meeting Adjournment:**  
+The meeting concluded at [End Time].
+
+---
+
+*Note: Replace [Date] and [End Time] with the actual date and time information.*
 
