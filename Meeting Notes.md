@@ -2,7 +2,6 @@
 
 - **Date:** [14-08-2023]
 - **Time:** [Evening]
-
 ## Agenda:
 1. **Updates:** Team status, activities, challenges.
 2. **Energy Check:** Morale assessment.
