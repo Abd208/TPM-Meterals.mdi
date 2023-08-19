@@ -19,7 +19,3 @@
 ## Cross-Functional Collaboration and Contributions
 - Beyond your immediate responsibilities, could you elaborate on any contributions you've made to foster cross-functional collaboration within the organization?
 - How do you actively encourage knowledge sharing and collaboration among different teams?
-
----
-
-*Note: This Markdown file contains a sample professional question for a Technical Program Manager (TPM) role interview. You can use this format as a reference to create similar documents.*
