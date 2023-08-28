@@ -8,7 +8,7 @@
 - Define and clarify team goals.
 
 ## Meeting Summary
-
+ 
 - Teams shared their respective progress updates, communication strategies, and goals.
 - Communication challenges were highlighted and discussed.
 - Emphasis placed on setting clear and achievable short-term goals for each team.
