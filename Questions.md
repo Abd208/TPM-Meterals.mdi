@@ -19,3 +19,4 @@
 ## Cross-Functional Collaboration and Contributions
 - Beyond your immediate responsibilities, could you elaborate on any contributions you've made to foster cross-functional collaboration within the organization?
 - How do you actively encourage knowledge sharing and collaboration among different teams? 
+
