@@ -7,7 +7,7 @@ Improving communication during Total Productive Maintenance (TPM) meetings with 
    Create an agenda that outlines the topics to be discussed during the meeting. Share this agenda with participants in advance so they can come prepared. Stick to the agenda to avoid getting sidetracked.
 
 3. **Assign Roles and Responsibilities:**
-   Designate roles within the meeting, such as a facilitator, timekeeper, and note-taker. This ensures that the meeting runs smoothly and that important points are recorded.
+   Designate roles within the meeting, such as a facilitator, timekeeper, and note-taker. This ensures that the meeting runs smoothly and that important points are recorded. 
 
 4. **Active Listening:**
    Encourage all participants to actively listen to each other. This means giving full attention to the speaker without interrupting and asking clarifying questions when needed. Summarize key points after each discussion to ensure everyone is on the same page.
