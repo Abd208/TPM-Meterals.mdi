@@ -12,7 +12,7 @@ Improving communication during Total Productive Maintenance (TPM) meetings with 
 4. **Active Listening:**
    Encourage all participants to actively listen to each other. This means giving full attention to the speaker without interrupting and asking clarifying questions when needed. Summarize key points after each discussion to ensure everyone is on the same page.
 
-5. **Respect Different Perspectives:**
+5. **Respect Different Perspectives:** 
    Be open to different viewpoints and approaches from various teams. Respectful disagreement can lead to better solutions. Create an environment where team members feel comfortable sharing their thoughts.
 
 6. **Visual Aids and Data Sharing:**
