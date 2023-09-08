@@ -12,7 +12,7 @@
 - In terms of your broader goals for the project, how do you plan to align the team's efforts to ensure both timely delivery and high-quality results?
 - Could you share your approach to maintaining a balance between speed and quality in project execution?
 
-## Fostering Productivity and Process Improvement
+## Fostering Productivity and Process Improvement 
 - As a TPM, how do you encourage and facilitate increased productivity within your team?
 - Can you provide an example of a specific process improvement you've introduced that positively impacted the team's efficiency?
 
