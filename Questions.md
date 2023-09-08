@@ -8,7 +8,7 @@
 - What are the primary challenges or issues your team is currently facing in the project?
 - How have you approached overcoming these challenges, and what strategies have you implemented or are planning to implement?
 
-## Goal Alignment and Quality Assurance 
+## Goal Alignment and Quality Assurance  
 - In terms of your broader goals for the project, how do you plan to align the team's efforts to ensure both timely delivery and high-quality results?
 - Could you share your approach to maintaining a balance between speed and quality in project execution?
 
